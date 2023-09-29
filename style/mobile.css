@@ -1,0 +1,23 @@
+@media (max-width: 603px){
+    #textos button {
+        font-size: larger;
+    }
+
+    #cartman, #keny {
+        width: 228px !important
+    }
+
+    #textoDoutores {
+        font-size: large !important;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    #textos {
+        margin-left: 13px;
+    }
+
+    #banner {
+        background-image: none;
+    }
+}
