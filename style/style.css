@@ -112,3 +112,43 @@ h1 {
 [class^='swal2'] {
     -webkit-tap-highlight-color: transparent;
 }
+
+.swal2-confirm.swal2-styled {
+    background: white;
+    color: #00FFFF;
+}
+
+/* Estilos para Daltonicos */
+
+.dalto #cartman, 
+.dalto #keny, 
+.dalto #enviarBtn,
+.dalto #textos button,
+.dalto::-webkit-scrollbar-thumb {
+    background-color: #D3D3D3 !important;
+}
+
+.dalto .depressao,
+.dalto .ansiedade,
+.dalto .psicopatia,
+.dalto .transtornoB {
+    color: black;
+    text-decoration: underline;
+}
+
+.dalto #gridRadios1,
+.dalto #gridRadios2,
+.dalto #gridRadios3,
+.dalto #gridCheck1 {
+    background-color: #D3D3D3;
+    border-color: #D3D3D3;
+}
+
+.dalto .swal2-popup,
+.dalto .swal2-title,
+.dalto .swal2-confirm.swal2-styled,
+.dalto .swal2-icon.swal2-info.swal2-icon-show {
+    background: #D3D3D3 !important;
+    color: black;
+    border-color: black;
+}
