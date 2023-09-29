@@ -19,7 +19,7 @@ body {
 }
 
 #banner{
-    background-image: url(img/dedo.png);
+    background-image: url(../img/terapia.png);
     height: 85vh;
     width: 100%;
     background-size: cover;
