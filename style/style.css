@@ -72,14 +72,21 @@ h1 {
     flex-direction: column;
 }
 
-#formaPagamento{
-    border-radius: 5px;
+#cartman, #keny {
     border: none;
+    background-color: #00FFFF;
+    color: black;
+    font-weight: bolder;
 }
 
-#preco{
+#formaPagamento, #preco, #terapeutas{
     border-radius: 5px;
     border: none;
+    height: 34px;
+}
+
+.depressao, .ansiedade, .psicopatia, .transtornoB {
+    text-decoration: none;
 }
 
 /* Estilos para o pop-up */
