@@ -72,6 +72,16 @@ h1 {
     flex-direction: column;
 }
 
+#formaPagamento{
+    border-radius: 5px;
+    border: none;
+}
+
+#preco{
+    border-radius: 5px;
+    border: none;
+}
+
 /* Estilos para o pop-up */
 
 .swal2-popup  {
