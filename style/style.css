@@ -10,6 +10,10 @@
     border-radius: 30px;
 }
 
+* {
+    transition: all 0.5s;
+}
+
 img {
     max-width: 100% !important;
 }
@@ -125,7 +129,7 @@ h1 {
 .dalto #enviarBtn,
 .dalto #textos button,
 .dalto::-webkit-scrollbar-thumb {
-    background-color: #D3D3D3 !important;
+    background-color: #E0FFFF !important;
 }
 
 .dalto .depressao,
@@ -140,15 +144,15 @@ h1 {
 .dalto #gridRadios2,
 .dalto #gridRadios3,
 .dalto #gridCheck1 {
-    background-color: #D3D3D3;
-    border-color: #D3D3D3;
+    background-color: #E0FFFF;
+    border-color: #E0FFFF;
 }
 
 .dalto .swal2-popup,
 .dalto .swal2-title,
 .dalto .swal2-confirm.swal2-styled,
 .dalto .swal2-icon.swal2-info.swal2-icon-show {
-    background: #D3D3D3 !important;
+    background: #E0FFFF !important;
     color: black;
     border-color: black;
 }
