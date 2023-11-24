@@ -92,7 +92,7 @@ h1 {
 /* Estilos para o pop-up */
 
 .swal2-popup  {
-    background: #00FFFF !important;
+    background: #E0FFFF !important;
     border-radius: 50px;
 }
 
@@ -102,7 +102,7 @@ h1 {
 
 .swal2-title  {
     color: black !important;
-    background: #00FFFF;
+    background: #E0FFFF;
 }
 
 .swal2-icon .swal2-icon-content{
@@ -115,7 +115,7 @@ h1 {
 
 .swal2-confirm.swal2-styled {
     background: white;
-    color: #00FFFF;
+    color: #5353ec;
 }
 
 /* Estilos para Daltonicos */
